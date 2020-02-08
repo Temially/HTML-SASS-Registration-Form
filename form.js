@@ -81,6 +81,7 @@ function calc()
             alert('The Password should be greater than 8 and less than 17!')
             alert('The Confirm Password should be greater than 8 and less than 17!')
     
+    
             if(password1!=password2)
             {
                 alert('Your passwords dont match!')
